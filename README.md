@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modisultan" alt="modisultan" /></a> </p>
 
-- 🔭 I’m currently working on [Arabic Peom](https://github.com/modisultan/Arabic_peom)
+- 🔭 I’m currently working on [Arabic Poem](https://github.com/modisultan/Arabic_peom)
 
 - 👨‍💻 All of my projects are available at [https://github.com/modisultan](https://github.com/modisultan)
 
